@@ -10,3 +10,6 @@
 
 ## Tercer meta
     -Salir a pasear el domingo
+
+## Cuarta meta
+    -Estudiar mucho este tema y pensar en más temas para la semana
