@@ -13,3 +13,5 @@
 
 ## Cuarta meta
     -Estudiar mucho este tema y pensar en más temas para la semana
+## Quinta meta
+    -Comprar un apto
