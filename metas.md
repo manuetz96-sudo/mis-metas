@@ -8,6 +8,8 @@
 ## Segunda meta
     -Comprar un carro para irme a pasear con la family
 
+    ![Carro](carro)
+
 ## Tercer meta
     -Salir a pasear el domingo
 
